@@ -22,6 +22,16 @@ Existing vision-language forgery detection and grounding methods operate under a
 
 **OmniVL-Guard Pro** breaks this ceiling by shifting from *scaling up* the self-contained model to *reaching beyond* it. It is a **tool-augmented agent** that extends unified forensics from closed-world prediction to open-world, evidence-driven reasoning across **text, image, and video** modalities.
 
+
+---
+
+## 🔗 Related Work: OmniVL-Guard
+
+**OmniVL-Guard** (ICML 2026) is the first unified framework for vision-language forgery detection and grounding across image, text, and video modalities. OmniVL-Guard Pro builds upon this foundation, extending from closed-world prediction to open-world tool-augmented reasoning.
+
+- **Paper:** [arXiv:2602.10687](https://arxiv.org/abs/2602.10687)
+- **GitHub:** [OmniVL-Guard](https://github.com/shen8424/OmniVL-Guard)
+
 ---
 
 ## 🌟 Key Features
